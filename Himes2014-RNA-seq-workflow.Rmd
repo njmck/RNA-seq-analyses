@@ -1,6 +1,5 @@
 ---
 title: "RNA-seq pipeline for exploratory and differential expression analysis"
-author: "Nicholas J. McKenzie"
 output: github_document
 ---
 
